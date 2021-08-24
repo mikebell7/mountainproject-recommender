@@ -1,0 +1,4 @@
+name,id,parent_id,elevation,latitude,longitude
+Nebraska,116096758,,"2,556",41.817, -99.953
+Goon Stretch,116136142,116096758.0,"1,135",41.198, -96.302
+Schramm Road,118782467,116096758.0,"1,059",41.018, -96.245

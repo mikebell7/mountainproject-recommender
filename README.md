@@ -1,1 +1,2 @@
-# climbing-recommender
+# capstone
+Mountain Project Recommender System
